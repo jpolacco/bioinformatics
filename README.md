@@ -1,7 +1,7 @@
 # Bioinformatics
 Students hunt for genes as efficiently as possible(optimization).
 
-## Intoduction
+## Introduction
 In the field of bioinformatics, computer scientists and biologists work together to unravel the mysteries of the genome.  DNA is composed of four different nucleotides, which are commonly represented by the letters A, C, G, and T.  We have approximately 3 billion nucleotide pairs in our human genome (or so I've been told).  But don't get too proud of yourselves, humans.  The animal with the longest genome ever found is the Protopterus aethiopicus (a.k.a the marbled lungfish) Its genome contains 133 billion base pairs.  
 
     <!--- ![marbled lungfish](https://github.com/jpolacco/cryptography/blob/master/fox.png) . -->
