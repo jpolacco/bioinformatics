@@ -2,9 +2,9 @@
 Students hunt for genes as efficiently as possible(optimization).
 
 ## Introduction
-In the field of bioinformatics, computer scientists and biologists work together to unravel the mysteries of the genome.  DNA is composed of four different nucleotides, which are commonly represented by the letters A, C, G, and T.  We have approximately 3 billion nucleotide pairs in our human genome (or so I've been told).  But don't get too proud of yourselves, humans.  The animal with the longest genome ever found is the Protopterus aethiopicus (a.k.a the marbled lungfish) Its genome contains 133 billion base pairs.  
+In the field of bioinformatics, computer scientists and biologists work together to unravel the mysteries of the genome.  DNA is composed of four different nucleotides, which are commonly represented by the letters A, C, G, and T.  We have approximately 3 billion nucleotide pairs in our human genome (or so I've been told). The animal with the longest genome ever found is the Protopterus aethiopicus (a.k.a the marbled lungfish). Its genome contains 133 billion base pairs.  
 
-![marbled lungfish](https://github.com/jpolacco/cryptography/blob/master/marbled_lungfish.jpg)
+![marbled lungfish](https://github.com/jpolacco/bioinformatics/blob/master/marbled_lungfish.jpg)
 
  
 However, *P. aethiopicus* is not the organism with the biggest genome. There are many non-animal organisms with a bigger genome. Such as, *Polychaos dubium*...
